@@ -29,8 +29,7 @@
 
 	margin-left: 15%;
 	padding: 9px 20px;
-	border-bottom: 2px solid red;
-	background-color: rgb(69, 122, 61);
+	background-color: rgb(255,140,1);
 	color: white;
 	font-size: 16px;
 	border-radius: 5px;
@@ -39,8 +38,7 @@
 #login {	
 	margin-right: 20px;
 	padding: 9px 20px;
-	border-bottom: 2px solid red;
-	background-color: rgb(69, 122, 61);
+	background-color: rgb(255,140,1);
 	color: white;
 	font-size: 16px;
 	border-radius: 5px;
@@ -51,10 +49,9 @@
 }
 
 .search-block {
-	height: 21vh;
+	height: 23vh;
 	width: 60%;
-	background-color: rgb(69, 122, 61);
-	border-bottom: 2px solid red;
+	background-color: rgb(255,140,1);
 	margin-top: 12vh;
 	border-radius: 10px;
 	padding: 7px 20px;
@@ -99,8 +96,7 @@
 	margin-top: 5px;
 	margin-left: 24%;
 	padding: 9px 30px;
-	border-bottom: 2px solid red;
-	background-color: rgb(69, 122, 61);
+	background-color: rgb(255,140,1);
 	color: white;
 	font-size: 16px;
 }
@@ -109,7 +105,7 @@
 /*how to section*/
 
 .how-to {
-	background-color: rgb(69, 122, 61);
+	background-color: rgb(255,140,1);
 	height: 30vh;
 	width: 98%;
 	margin: 0 auto;
@@ -132,8 +128,8 @@
 /*hot trends section*/
 
 .hot-trends {
-	color: white;
-	background-image: url("./hot_trends.jpg");
+	color: black;
+	/*background-image: url("./hot_trends.jpg");*/
 	height: 80vh;
 	width: 100%;
 	opacity: 0.9;
@@ -154,7 +150,6 @@
 	text-align: center;
 	margin: 0 auto;
 	padding: 9px ;
-	background-color: rgb(69, 122, 61);
 }
 
 .hot-trends img {
@@ -173,6 +168,19 @@
 }
 
 .hot-trends .col-md-2 {
-	background-color: rgb(69, 122, 61);
+/*	background-color: rgb(69, 122, 61);*/
 
 }
+
+
+
+/*footer section*/
+
+.footer {
+	margin-top: 20px;
+} 
+
+
+
+
+
