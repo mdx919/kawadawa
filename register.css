@@ -1,0 +1,52 @@
+body {
+	font-size: 20px;
+}
+
+.register-page {
+	border-radius: 10px;
+	padding: 25px 30px;
+	background-color: rgb(255,140,1);
+	height: 80vh;
+	width: 50%;
+	margin: 8vh 25%;
+}
+
+#submit-btn {
+	text-align: center;
+}
+
+.register-page h3 {
+	text-align: center;
+	font-size: 40px;
+}
+
+#submit-btn {
+	padding: 5px 100px;
+	border-radius: 5px;
+}
+
+#join-btn {
+	text-align: center;
+}
+
+#join-us {
+	text-align: center;
+	padding: 5px 100px;
+	border-radius: 5px;
+}
+
+
+
+.row {
+	display: inline-block;
+}
+
+.row img {
+	height: 7vh;
+	width: 30%;
+}
+
+.row .col-xsm-1 {
+	display: inline;
+
+}
